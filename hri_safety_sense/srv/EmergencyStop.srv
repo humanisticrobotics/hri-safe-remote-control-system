@@ -1,0 +1,7 @@
+# Emergency STOP 
+uint8 ESTOP_REASON_CLEAR=0
+uint8 ESTOP_REASON_SET=1
+
+uint8 EmergencyStop
+---
+

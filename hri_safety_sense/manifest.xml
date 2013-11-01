@@ -1,0 +1,15 @@
+<package>
+  <description brief="hri_safe_remote_system">
+
+     hri_safe_remote_system
+
+  </description>
+  <author>hri</author>
+  <license>BSD</license>
+  <review status="Version 1.0" notes=""/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
