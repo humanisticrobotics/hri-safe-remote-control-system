@@ -7,3 +7,5 @@
 
 #### C Drivers: /drivers
 #### ROS Drivers: /hri_safety_sense
+#### Order and Return Forms: /Forms
+#### SRCS Assembly and Setup Procedures: /Assembly Procedures and Setup
