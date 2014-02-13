@@ -1,4 +1,5 @@
-hri-safe-remote-control-system
-==============================
+# Humanistic Robotics
+## Safe Remote Control System (SRCS)
 
-HRI Safe Remote Control System ROS drivers and C drivers
+#### C Drivers /drivers
+#### ROS Drivers /hri_safety_sense
