@@ -5,6 +5,6 @@
 
 
 #### Tutorial Instructions: [Running_Tutorials.txt] (Running_Tutorials.txt)
-#### C Drivers: /drivers
-#### ROS Drivers: /hri_safety_sense
+#### C Drivers: [/drivers] (/drivers)
+#### ROS Drivers: [/hri_safety_sense] (/hri_safety_sense)
 
