@@ -4,7 +4,7 @@
 <h3><a href="http://humanisticrobotics.com/products/safe-remote-control" target="_blank">Safe Remote Control System (SRCS)</a></h3>
 
 
-#### Tutorial Instructions: Running_Tutorials.txt
+#### Tutorial Instructions: [Running_Tutorials.txt] (Running_Tutorials.txt)
 #### C Drivers: /drivers
 #### ROS Drivers: /hri_safety_sense
 
